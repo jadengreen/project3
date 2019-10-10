@@ -10,3 +10,15 @@ function draw() {
   }
   ellipse(mouseX, mouseY, 80, 80);
 }
+
+function setup() {
+createCanvas(480, 120);
+}
+
+function draw() {
+  background(204);
+  fill(250, 0, 0);
+  rect(180, 60, 220, 40);
+ }
+
+ 
